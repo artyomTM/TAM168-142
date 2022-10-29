@@ -1,5 +1,6 @@
 # Трущук А.М. 142Б
 ## TAM168-142
+$$(\overline {\overline{x}})=x$$
 ### Files:
     - CC.py
         - Перерод систем счисления на python.
