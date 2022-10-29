@@ -4,6 +4,7 @@
 $$\overline {\overline{A}}=A$$
 $$\newcommand{\doubleol}[1]{\overline{\overline{#1}}}
 \doubleol{B}=B$$
+![image](https://github.com/artyomTM/TAM168-142/blob/main/lagrida_latex_editor.png)
 ### Files:
     - CC.py
         - Перерод систем счисления на python.
@@ -20,6 +21,5 @@ $$\newcommand{\doubleol}[1]{\overline{\overline{#1}}}
         - Логические выражения.
     - нейросеть.png
         - Скрин нейросети.
-![image](https://ru-static.z-dn.net/files/df4/a4ff8957afd514d647566397fc7d7536.png)
     
     
