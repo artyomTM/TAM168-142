@@ -1,5 +1,6 @@
 # Трущук А.М. 142Б
 ## TAM168-142
+### Закон двойного отрицания
 $$\overline {\overline{A}}=A$$
 $$\newcommand{\doubleol}[1]{\overline{\overline{#1}}}
 \doubleol{B}=B$$
