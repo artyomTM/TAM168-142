@@ -4,7 +4,6 @@
 $$\overline {\overline{A}}=A$$
 $$\newcommand{\doubleol}[1]{\overline{\overline{#1}}}
 \doubleol{B}=B$$
-/home/trushuk-a-m/Загрузки/lagrida_latex_editor.png
 ### Files:
     - CC.py
         - Перерод систем счисления на python.
