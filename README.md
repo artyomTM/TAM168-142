@@ -2,8 +2,6 @@
 ## TAM168-142
 ### Закон двойного отрицания
 $$\overline {\overline{A}}=A$$
-$$\newcommand{\doubleol}[1]{\overline{\overline{#1}}}
-\doubleol{B}=B$$
 ![image](https://github.com/artyomTM/TAM168-142/blob/main/lagrida_latex_editor.png)
 ### Files:
     - CC.py
