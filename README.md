@@ -21,5 +21,7 @@ $$\overline {\overline{A}}=A$$
         - Скрин нейросети.
 ### LaTeX
 $${\overset{-}{E_{1}^2}}=\sqrt{\frac{Fa^{x-1}}{(x-1)*x}}+\alpha_{1}^{2}+\beta_{1}^{\frac{2}{3}}$$
+
+$${\overset{\to}{F}}=\frac{d {\overset{\to}{p}}}{dt}$$
     
     
