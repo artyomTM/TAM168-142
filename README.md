@@ -1,8 +1,11 @@
 # Трущук А.М. 142Б
 ## TAM168-142
+
 ### Закон двойного отрицания
 $$\overline {\overline{A}}=A$$
-![image](https://github.com/artyomTM/TAM168-142/blob/main/lagrida_latex_editor.png)
+
+![lagrida_latex_editor](https://user-images.githubusercontent.com/93852581/200984021-168a6711-5b02-4127-8591-b7c72aba359e.png)
+
 ### Files:
     - CC.py
         - Перерод систем счисления на python.
@@ -20,6 +23,7 @@ $$\overline {\overline{A}}=A$$
     - нейросеть.png
         - Скрин нейросети.
 ### LaTeX
+
 $${\overset{-}{E_{1}^2}}=\sqrt{\frac{Fa^{x-1}}{(x-1) \cdot x}}+\alpha_{1}^{2}+\beta_{1}^{\frac{2}{3}}$$
 
 $${\overset{\to}{F}}=\frac{d {\overset{\to}{p}}}{dt}$$
@@ -28,4 +32,5 @@ $$\tan{\alpha \pm \beta}=\frac{\tan{\beta} \pm \tan{\alpha}}{1 \mp \tan{\beta}\t
 
 $$\cot{\alpha \pm \beta}=\frac{\cot{\beta}\cot{\alpha} \mp 1}{\cot{\beta} \pm \cot{\alpha}}$$
 
-![image](https://github.com/artyomTM/TAM168-142/blob/main/frmls.png)
+![frmls](https://user-images.githubusercontent.com/93852581/200983943-ef44cc40-3c90-4523-a141-d0df44263a6d.png)
+
