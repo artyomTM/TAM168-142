@@ -27,3 +27,5 @@ $${\overset{\to}{F}}=\frac{d {\overset{\to}{p}}}{dt}$$
 $$\tan{\alpha \pm \beta}=\frac{\tan{\beta} \pm \tan{\alpha}}{1 \mp \tan{\beta}\tan{\alpha}}$$
 
 $$\cot{\alpha \pm \beta}=\frac{\cot{\beta}\cot{\alpha} \mp 1}{\cot{\beta} \pm \cot{\alpha}}$$
+
+![image](https://github.com/artyomTM/TAM168-142/blob/main/frmls.png)
