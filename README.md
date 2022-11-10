@@ -24,4 +24,4 @@ $${\overset{-}{E_{1}^2}}=\sqrt{\frac{Fa^{x-1}}{(x-1)*x}}+\alpha_{1}^{2}+\beta_{1
 
 $${\overset{\to}{F}}=\frac{d {\overset{\to}{p}}}{dt}$$
     
-    
+$$\tan{\alpha \pm \beta}=\frac{\tan{\beta} \pm \tan{\alpha}}{1 \mp \tan{\beta}\tan{\alpha}}$$
