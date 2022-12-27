@@ -22,6 +22,9 @@ $$\overline {\overline{A}}=A$$
         - Логические выражения.
     - нейросеть.png
         - Скрин нейросети.
+
+[![](https://mermaid.ink/img/pako:eNpVj0tqw0AMQK8y0WoMcQ7gRUvSyWeTVbwpzCJDrNZD_MOfRQmBNpsep1nEoR9IryDfKJrUmw4aJJ4eEtrBJo8QAnguTRGLUOlM8BvLhR14wvfvJjKMbSU4wvFyXYmbN_L-tAkbvniQ9NG9U0tf9E1HQb90oRP9MDjTZ3dwoO1e-b91B86Xm9eOBv-GKKnyHii3dyof86YHUwdmMrFb7MnMkbk0RZFg1bO5Ywt578EQUixTYyO-a-eaGuoYU9QQcBmZcqtBZ3v2TFPnq5dsA0FdNjiEpohMjcoaPjOF4MkkFe6vN5toaQ?type=png)](https://mermaid.live/edit#pako:eNpVj0tqw0AMQK8y0WoMcQ7gRUvSyWeTVbwpzCJDrNZD_MOfRQmBNpsep1nEoR9IryDfKJrUmw4aJJ4eEtrBJo8QAnguTRGLUOlM8BvLhR14wvfvJjKMbSU4wvFyXYmbN_L-tAkbvniQ9NG9U0tf9E1HQb90oRP9MDjTZ3dwoO1e-b91B86Xm9eOBv-GKKnyHii3dyof86YHUwdmMrFb7MnMkbk0RZFg1bO5Ywt578EQUixTYyO-a-eaGuoYU9QQcBmZcqtBZ3v2TFPnq5dsA0FdNjiEpohMjcoaPjOF4MkkFe6vN5toaQ)
+
 ### LaTeX
 
 $${\overset{-}{E_{1}^2}}=\sqrt{\frac{Fa^{x-1}}{(x-1) \cdot x}}+\alpha_{1}^{2}+\beta_{1}^{\frac{2}{3}}$$
